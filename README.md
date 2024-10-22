@@ -99,7 +99,7 @@
 
   <section id="learning-path">
     <h2>My Learning Path</h2>
-    <p>Throughout our conversations, I've been learning various web development and coding skills. Here’s what I've been working on:</p>
+    <p>I've been learning various web development and coding skills. Here’s what I've been working on:</p>
     <ul>
       <li><strong>HTML & CSS:</strong> Building web layouts and responsive designs.</li>
       <li><strong>JavaScript:</strong> Learning interactive programming and working with the DOM.</li>
